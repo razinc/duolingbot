@@ -7641,4 +7641,467 @@ syllabus = {
             "pinyin": "Jīntiān hěn nuǎnhuo, wǒmen chūqù ba!",
         },
     ],
+    "Handle an emergency.": [
+        {
+            "english": "A lot of people were injured.",
+            "chinese": "很多人受伤了.",
+            "pinyin": "Hěnduō rén shòushāngle.",
+        },
+        {
+            "english": "After breaking a bone, she couldn't walk.",
+            "chinese": "骨折后, 她不能走路了.",
+            "pinyin": "Gǔzhé hòu, tā bùnéng zǒulùle.",
+        },
+        {"english": "Are you OK?", "chinese": "你还好吗?", "pinyin": "Nǐ hái hǎo ma?"},
+        {
+            "english": "Be careful, his hand is broken.",
+            "chinese": "小心, 他的手骨折了.",
+            "pinyin": "Xiǎoxīn, tā de shǒu gǔzhéle.",
+        },
+        {
+            "english": "Call an ambulance quickly.",
+            "chinese": "快叫救护车!",
+            "pinyin": "Kuài jiào jiùhù chē!",
+        },
+        {
+            "english": "Call the police!",
+            "chinese": "叫警察!",
+            "pinyin": "Jiào jǐngchá!",
+        },
+        {
+            "english": "Can anyone help me?",
+            "chinese": "有人可以帮我吗?",
+            "pinyin": "Yǒurén kěyǐ bāng wǒ ma?",
+        },
+        {
+            "english": "Can you hear me?",
+            "chinese": "您能听到我吗?",
+            "pinyin": "Nín néng tīng dào wǒ ma?",
+        },
+        {
+            "english": "Can you help me call the police?",
+            "chinese": "你能帮我叫警察吗?",
+            "pinyin": "Nǐ néng bāng wǒ jiào jǐngchá ma?",
+        },
+        {
+            "english": "Can you see me?",
+            "chinese": "你可以看见我吗?",
+            "pinyin": "Nǐ kěyǐ kànjiàn wǒ ma?",
+        },
+        {
+            "english": "Can you speak?",
+            "chinese": "你能说话吗?",
+            "pinyin": "Nǐ néng shuōhuà ma?",
+        },
+        {
+            "english": "Can your leg move?",
+            "chinese": "你的腿能动吗?",
+            "pinyin": "Nǐ de tuǐ néngdòng ma?",
+        },
+        {
+            "english": "Did you call an ambulance?",
+            "chinese": "你叫救护车了吗?",
+            "pinyin": "Nǐ jiào jiùhù chēle ma?",
+        },
+        {
+            "english": "Do you need a band-aid?",
+            "chinese": "你需要创可贴吗?",
+            "pinyin": "Nǐ xūyào chuàngkětiē ma?",
+        },
+        {
+            "english": "Doctor, can he hear our voices?",
+            "chinese": "医生, 他能听到我们的声音吗?",
+            "pinyin": "Yīshēng, tā néng tīng dào wǒmen de shēngyīn ma?",
+        },
+        {
+            "english": "Doctor, her leg can't move.",
+            "chinese": "医生, 她的腿不能动了.",
+            "pinyin": "Yīshēng, tā de tuǐ bùnéng dòngle.",
+        },
+        {
+            "english": "Does she need a band-aid?",
+            "chinese": "她需要创可贴吗?",
+            "pinyin": "Tā xūyào chuàngkětiē ma?",
+        },
+        {
+            "english": "Does someone have a band-aid?",
+            "chinese": "有人有创可贴吗?",
+            "pinyin": "Yǒurén yǒu chuàngkětiē ma?",
+        },
+        {
+            "english": "Don't be nervous when the police ask questions.",
+            "chinese": "警察问问题的时候, 别紧张.",
+            "pinyin": "Jǐngchá wèn wèntí de shíhòu, bié jǐnzhāng.",
+        },
+        {
+            "english": "Don't be nervous, this surgery is simple.",
+            "chinese": "别紧张, 这个手术很简单.",
+            "pinyin": "Bié jǐnzhāng, zhège shǒushù hěn jiǎndān.",
+        },
+        {
+            "english": "Don't inform my parents!",
+            "chinese": "别通知我父母!",
+            "pinyin": "Bié tōngzhī wǒ fùmǔ!",
+        },
+        {
+            "english": "Don't worry, get some good rest!",
+            "chinese": "别担心, 好好休息!",
+            "pinyin": "Bié dānxīn, hǎohǎo xiūxí!",
+        },
+        {
+            "english": "Get some good rest, goodbye.",
+            "chinese": "好好休息, 再见.",
+            "pinyin": "Hǎohǎo xiūxí, zàijiàn.",
+        },
+        {
+            "english": "Get some good rest.",
+            "chinese": "好好休息.",
+            "pinyin": "Hǎohǎo xiūxí.",
+        },
+        {
+            "english": "Has someone called the police?",
+            "chinese": "有人报警了吗?",
+            "pinyin": "Yǒurén bàojǐngle ma?",
+        },
+        {
+            "english": "Has the ambulance arrived?",
+            "chinese": "救护车到了吗?",
+            "pinyin": "Jiùhù chē dàole ma?",
+        },
+        {
+            "english": "He can't move, what should I do?",
+            "chinese": "他不能动了, 怎么办?",
+            "pinyin": "Tā bùnéng dòngle, zěnme bàn?",
+        },
+        {
+            "english": "He doesn't need surgery.",
+            "chinese": "他不需要手术.",
+            "pinyin": "Tā bù xūyào shǒushù.",
+        },
+        {
+            "english": "Her family brought her charger.",
+            "chinese": "她的家人去了她的充电器.",
+            "pinyin": "Tā de jiārén qùle tā de chōngdiàn qì.",
+        },
+        {
+            "english": "Her left leg cannot move.",
+            "chinese": "她的左腿不能动了.",
+            "pinyin": "Tā de zuǒ tuǐ bùnéng dòngle.",
+        },
+        {
+            "english": "Her motorcycle broke down.",
+            "chinese": "她的摩托车坏了.",
+            "pinyin": "Tā de mótuō chē huàile.",
+        },
+        {
+            "english": "His left leg is injured.",
+            "chinese": "他的左腿受伤了.",
+            "pinyin": "Tā de zuǒ tuǐ shòushāngle.",
+        },
+        {
+            "english": "His leg is broken.",
+            "chinese": "他的腿骨折了.",
+            "pinyin": "Tā de tuǐ gǔzhéle.",
+        },
+        {
+            "english": "His mother brought his ID card.",
+            "chinese": "他妈妈带去了他的身份证.",
+            "pinyin": "Tā māmā dài qùle tā de shēnfèn zhèng.",
+        },
+        {
+            "english": "His right leg cannot move.",
+            "chinese": "他的右腿不能动.",
+            "pinyin": "Tā de yòu tuǐ bùnéng dòng.",
+        },
+        {
+            "english": "His wife brought some clothes.",
+            "chinese": "他老婆带去了一些衣服.",
+            "pinyin": "Tā lǎopó dài qùle yīxiē yīfú.",
+        },
+        {
+            "english": "I am afraid of surgery!",
+            "chinese": "我怕动手术!",
+            "pinyin": "Wǒ pà dòng shǒushù!",
+        },
+        {
+            "english": "I am uncomfortable but I still can speak.",
+            "chinese": "我不舒服, 但是我还能说话.",
+            "pinyin": "Wǒ bú shūfú, dànshì wǒ hái néng shuōhuà.",
+        },
+        {
+            "english": "I bought medicine for that lady.",
+            "chinese": "我给那位女士买了药.",
+            "pinyin": "Wǒ gěi nà wèi nǚshì mǎile yào.",
+        },
+        {
+            "english": "I bought some medicine.",
+            "chinese": "我买来了一些药.",
+            "pinyin": "Wǒ mǎi láile yīxiē yào.",
+        },
+        {
+            "english": "I called a doctor.",
+            "chinese": "我叫了一个医生.",
+            "pinyin": "Wǒ jiàole yīgè yīshēng.",
+        },
+        {
+            "english": "I feel okay.",
+            "chinese": "我觉得还好.",
+            "pinyin": "Wǒ juédé hái hǎo.",
+        },
+        {
+            "english": "I forgot to bring a band-aid.",
+            "chinese": "我忘了带创可贴.",
+            "pinyin": "Wǒ wàngle dài chuàngkětiē.",
+        },
+        {
+            "english": "I helped a lady today.",
+            "chinese": "我今天帮助了一位女士.",
+            "pinyin": "Wǒ jīntiān bāngzhùle yī wèi nǚshì.",
+        },
+        {
+            "english": "I was beside her when she was injured.",
+            "chinese": "她受伤的时候, 我在她旁边.",
+            "pinyin": "Tā shòushāng de shíhòu, wǒ zài tā pángbiān.",
+        },
+        {
+            "english": "I'm OK, thanks.",
+            "chinese": "我还好, 谢谢.",
+            "pinyin": "Wǒ hái hǎo, xièxiè.",
+        },
+        {
+            "english": "Is someone injured?",
+            "chinese": "有人受伤了吗?",
+            "pinyin": "Yǒurén shòushāngle ma?",
+        },
+        {
+            "english": "Is the doctor speaking?",
+            "chinese": "医生在说话吗?",
+            "pinyin": "Yīshēng zài shuōhuà ma?",
+        },
+        {
+            "english": "Is your left hand okay?",
+            "chinese": "你的左手还好吗?",
+            "pinyin": "Nǐ de zuǒshǒu hái hǎo ma?",
+        },
+        {
+            "english": "Is your left hand painful?",
+            "chinese": "你的左手疼吗?",
+            "pinyin": "Nǐ de zuǒshǒu téng ma?",
+        },
+        {
+            "english": "Motorcycles are very dangerous.",
+            "chinese": "摩托车很危险.",
+            "pinyin": "Mótuō chē hěn wéixiǎn.",
+        },
+        {
+            "english": "My left hand can move but my right hand cannot move.",
+            "chinese": "我的左手能动, 但是我的右手不能动.",
+            "pinyin": "Wǒ de zuǒshǒu néngdòng, dànshì wǒ de yòushǒu bùnéng dòng.",
+        },
+        {
+            "english": "No problem, your hand isn't broken.",
+            "chinese": "没事儿, 你的手没骨折.",
+            "pinyin": "Méishì er, nǐ de shǒu méi gǔzhé.",
+        },
+        {
+            "english": "Oh no, she can't speak.",
+            "chinese": "糟糕, 她不能说话了.",
+            "pinyin": "Zāogāo, tā bùnéng shuōhuàle.",
+        },
+        {
+            "english": "Please lend me a charger.",
+            "chinese": "请借我一个充电器.",
+            "pinyin": "Qǐng jiè wǒ yīgè chōngdiàn qì.",
+        },
+        {
+            "english": "Quickly inform his family.",
+            "chinese": "快通知他家人.",
+            "pinyin": "Kuài tōngzhī tā jiārén.",
+        },
+        {
+            "english": "She can hear my voice.",
+            "chinese": "她能听到我的声音.",
+            "pinyin": "Tā néng tīng dào wǒ de shēngyīn.",
+        },
+        {
+            "english": "She heard the police's voice.",
+            "chinese": "她听到了警察的声音.",
+            "pinyin": "Tā tīng dàole jǐngchá de shēngyīn.",
+        },
+        {
+            "english": "She is speaking.",
+            "chinese": "她在说话.",
+            "pinyin": "Tā zài shuōhuà.",
+        },
+        {
+            "english": "She's okay, don't worry.",
+            "chinese": "她还好, 别担心.",
+            "pinyin": "Tā hái hǎo, bié dānxīn.",
+        },
+        {
+            "english": "Someone bought some band-aids.",
+            "chinese": "有人买来了一些创可贴.",
+            "pinyin": "Yǒurén mǎi láile yīxiē chuàngkětiē.",
+        },
+        {
+            "english": "Someone called the police.",
+            "chinese": "有人叫来了警察.",
+            "pinyin": "Yǒurén jiào láile jǐngchá.",
+        },
+        {
+            "english": "Someone informed her husband.",
+            "chinese": "有人通知了她老公.",
+            "pinyin": "Yǒurén tōngzhīle tā lǎogōng.",
+        },
+        {
+            "english": "That lady is injured.",
+            "chinese": "那位女士受伤了.",
+            "pinyin": "Nà wèi nǚshì shòushāngle.",
+        },
+        {
+            "english": "That lady is okay now.",
+            "chinese": "那位女士现在还好.",
+            "pinyin": "Nà wèi nǚshì xiànzài hái hǎo.",
+        },
+        {
+            "english": "That lady is still in the hospital.",
+            "chinese": "那位女士还在医院.",
+            "pinyin": "Nà wèi nǚshì hái zài yīyuàn.",
+        },
+        {
+            "english": "That lady needs help.",
+            "chinese": "那位女士需要帮助.",
+            "pinyin": "Nà wèi nǚshì xūyào bāngzhù.",
+        },
+        {
+            "english": "The doctor brought a lot of medicine.",
+            "chinese": "医生带来了很多药.",
+            "pinyin": "Yīshēng dài láile hěnduō yào.",
+        },
+        {
+            "english": "The motorcycle is too fast.",
+            "chinese": "摩托车太快了",
+            "pinyin": "Mótuō chē tài kuàile.",
+        },
+        {
+            "english": "The police informed her family.",
+            "chinese": "警察通知了她的家人.",
+            "pinyin": "Jǐngchá tōngzhīliǎo tā de jiārén.",
+        },
+        {
+            "english": "The police sent her her things.",
+            "chinese": "警察给她寄去了的东西.",
+            "pinyin": "Jǐngchá gěi tā jì qùle de dōngxī.",
+        },
+        {
+            "english": "They are waiting for the ambulance.",
+            "chinese": "他们在等救护车.",
+            "pinyin": "Tāmen zài děng jiùhù chē.",
+        },
+        {
+            "english": "This doctor is impressive.",
+            "chinese": "这位医生很厉害.",
+            "pinyin": "Zhè wèi yīshēng hěn lìhài.",
+        },
+        {
+            "english": "This is the left hand.",
+            "chinese": "这是左手.",
+            "pinyin": "Zhè shì zuǒshǒu.",
+        },
+        {
+            "english": "This is the motorcycle.",
+            "chinese": "这是他的摩托车.",
+            "pinyin": "Zhè shì tā de mótuō chē.",
+        },
+        {
+            "english": "This lady needs surgery.",
+            "chinese": "这位女士需要手术.",
+            "pinyin": "Zhè wèi nǚshì xūyào shǒushù.",
+        },
+        {
+            "english": "This type of band-aid is too small.",
+            "chinese": "这种创可贴太小了.",
+            "pinyin": "Zhè zhǒng chuàngkětiē tài xiǎole.",
+        },
+        {
+            "english": "We called an ambulance.",
+            "chinese": "我们叫来了救护车.",
+            "pinyin": "Wǒmen jiào láile jiùhù chē.",
+        },
+        {
+            "english": "When I called the ambulance, he was crying.",
+            "chinese": "我叫救护车的时候, 他在哭.",
+            "pinyin": "Wǒ jiào jiùhù chē de shíhòu, tā zài kū.",
+        },
+        {
+            "english": "When I called the police, he was sitting on the ground.",
+            "chinese": "我报警的时候, 他在地上坐着.",
+            "pinyin": "Wǒ bàojǐng de shíhòu, tā zài dìshàng zuòzhe.",
+        },
+        {
+            "english": "When I called the police, they had already arrived.",
+            "chinese": "我报警的时候, 警察已经到了.",
+            "pinyin": "Wǒ bàojǐng de shíhòu, jǐngchá yǐjīng dàole.",
+        },
+        {
+            "english": "When I saw him, he was running.",
+            "chinese": "我看见他的时候, 他在跑步.",
+            "pinyin": "Wǒ kànjiàn tā de shíhòu, tā zài pǎobù.",
+        },
+        {
+            "english": "When I was shopping, someone fell.",
+            "chinese": "我逛街 的时候, 有人摔倒了.",
+            "pinyin": "Wǒ guàngjiē de shíhòu, yǒurén shuāi dǎo le.",
+        },
+        {
+            "english": "When she fell, her head was injured.",
+            "chinese": "她摔倒的时候, 她的头受伤了.",
+            "pinyin": "Tā shuāi dǎo de shíhòu, tā de tóu shòushāngle.",
+        },
+        {
+            "english": "When the police arrived, that person had already left.",
+            "chinese": "警察到的时候, 那个人已经走了.",
+            "pinyin": "Jǐngchá dào de shíhòu, nàgè rén yǐjīng zǒule.",
+        },
+        {
+            "english": "Where did she fall?",
+            "chinese": "她是在哪里摔倒的?",
+            "pinyin": "Tā shì zài nǎlǐ shuāi dǎo de?",
+        },
+        {
+            "english": "Where is the ambulance?",
+            "chinese": "救护车在哪儿?",
+            "pinyin": "Jiùhù chē zài nǎ'er?",
+        },
+        {
+            "english": "Who do you want to inform?",
+            "chinese": "你想谁通知?",
+            "pinyin": "Nǐ xiǎng shéi tōngzhī?",
+        },
+        {
+            "english": "Who just fell?",
+            "chinese": "谁 刚才摔倒了?.",
+            "pinyin": "Shéi gāngcái shuāi dǎo le?",
+        },
+        {
+            "english": "Who should we inform?",
+            "chinese": "我们应该通知谁?",
+            "pinyin": "Wǒmen yīnggāi tōngzhī shéi?",
+        },
+        {
+            "english": "Whose leg is injured?",
+            "chinese": "谁的腿受伤了?",
+            "pinyin": "Shéi de tuǐ shòushāngle?",
+        },
+        {
+            "english": "Whose motorcycle is that?",
+            "chinese": "那摩托车的是谁?",
+            "pinyin": "Nà mótuō chē de shì shéi?",
+        },
+        {
+            "english": "Your voice is quiet.",
+            "chinese": "你的声音很小.",
+            "pinyin": "Nǐ de shēngyīn hěn xiǎo.",
+        },
+    ],
 }
