@@ -3734,7 +3734,7 @@ syllabus = {
             "pinyin": "Nǐ de shǒujī tài jiùle.",
         },
     ],
-    "Talk about habits, describe flavors": [
+    "Talk about habits, describe flavors.": [
         {
             "english": "He will not pass by here today.",
             "chinese": "他今天不会经过这里.",
