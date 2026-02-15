@@ -5167,7 +5167,7 @@ syllabus = {
         {
             "english": "The beef ramen here is the tastiest.",
             "chinese": "这里的牛肉拉面最好吃.",
-            "pinyin": "Zhèlǐ de niúròu lāmiàn zuì hào chī?",
+            "pinyin": "Zhèlǐ de niúròu lāmiàn zuì hào chī.",
         },
         {
             "english": "Can you make fied rice?",
