@@ -1148,7 +1148,7 @@ syllabus = {
         {
             "english": "Are the clothes at this store expensive?",
             "chinese": "这个商店的衣服贵不贵?",
-            "pinyin": "Zhège shāngdiàn de yīfú guì bù guì.",
+            "pinyin": "Zhège shāngdiàn de yīfú guì bù guì?",
         },
         {
             "english": "Her boyfriend wants to buy clothes and shoes.",
