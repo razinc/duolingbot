@@ -5937,7 +5937,7 @@ syllabus = {
         {
             "english": "I downloaded many games.",
             "chinese": "我下载了很多游戏.",
-            "pinyin": ".",
+            "pinyin": "Wǒ xiàzàile hěnduō yóuxì.",
         },
         {
             "english": "Did you guys book a room?",
@@ -5947,7 +5947,7 @@ syllabus = {
         {
             "english": "She likes to smoke after drinking alcohol.",
             "chinese": "她喜欢抽烟后喝酒.",
-            "pinyin": ".",
+            "pinyin": "Tā xǐhuān chōuyān hòu hējiǔ.",
         },
         {
             "english": "This is not a simple question.",
@@ -7060,22 +7060,22 @@ syllabus = {
         {
             "english": 'Please click "like" below!',
             "chinese": "请在下面点赞!",
-            "pinyin": ".",
+            "pinyin": "Qǐng zài xiàmiàn diǎn zàn!",
         },
         {
             "english": "I don't agree with the above comment.",
             "chinese": "我不同意上面的评论.",
-            "pinyin": ".",
+            "pinyin": "Wǒ bù tóngyì shàngmiàn de pínglùn.",
         },
         {
             "english": "How many fans do you have on Weibo?",
             "chinese": "你在微博上有多少个粉丝?",
-            "pinyin": ".",
+            "pinyin": "Nǐ zài wēi bó shàng yǒu duōshǎo gè fěnsī?",
         },
         {
             "english": "That beautiful girl does not want to talk to me.",
             "chinese": "那个美眉不想跟我说话.",
-            "pinyin": ".",
+            "pinyin": "Nàgè měiméi bùxiǎng gēn wǒ shuōhuà.",
         },
     ],
     "Refer to business documents.": [
