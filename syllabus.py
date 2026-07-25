@@ -3607,7 +3607,10 @@ syllabus = {
             "chinese": "我坐在爸爸和妈妈中间.",
             "pinyin": "Wǒ zuò zài bàba hé māmā zhōngjiān",
         },
-        {"english": "I don't like big cities.", "chinese": "", "pinyin": ""},
+        {
+            "english": "I don't like big cities.",
+            "chinese": "我不喜欢大城市.",
+            "pinyin": "Wǒ bù xǐhuān dà chéngshì."},
         {
             "english": "There is a bird in the tree.",
             "chinese": "树上面有一只鸟.",
