@@ -4818,7 +4818,7 @@ syllabus = {
         {
             "english": "I must finish this work today.",
             "chinese": "我今天必须要完成这个工作.",
-            "pinyin": "",
+            "pinyin": "Wǒ jīntiān bìxū yào wánchéng zhège gōngzuò.",
         },
         {
             "english": "I forgot to buy paper!",
@@ -4878,17 +4878,17 @@ syllabus = {
         {
             "english": "Their teacher has high standards.",
             "chinese": "他们的老师要求很高.",
-            "pinyin": "",
+            "pinyin": "Tāmen de lǎoshī yāoqiú hěn gāo.",
         },
         {
             "english": "The cafeteria food is not good.",
             "chinese": "食堂的东西不好吃.",
-            "pinyin": "",
+            "pinyin": "Shítáng de dōngxī bù hào chī.",
         },
         {
             "english": "Our principal has high standards.",
             "chinese": "我们的校长要求很高.",
-            "pinyin": "",
+            "pinyin": "Wǒmen de xiàozhǎng yāoqiú hěn gāo.",
         },
         {
             "english": "They are in the cafeteria now.",
