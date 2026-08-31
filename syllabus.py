@@ -3649,7 +3649,7 @@ syllabus = {
         {
             "english": "The teacher lives in the city.",
             "chinese": "老师住在城市里.",
-            "pinyin": "Lǎoshī zhù zài chéngshì lǐ",
+            "pinyin": "Lǎoshī zhù zài chéngshì lǐ.",
         },
         {
             "english": "You can come return this and get a refund within seven days.",
